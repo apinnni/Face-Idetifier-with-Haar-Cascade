@@ -45,6 +45,7 @@ File external yang perlu di download:
     ```
 
 ## Credits and References
+
 * LTI Team
 * https://github.com/rchavezj/OpenCV_Projects/blob/master/Sec07_Simple_Machine_Learning/03_Face_Recognition_%C3%B1_Unlock_Your_Computer_With_Your_Face/%2003_Face_Recognition_%C3%B1_Unlock_Your_Computer_With_Your_Face.ipynb
 * https://github.com/rchavezj/OpenCV_Projects/blob/master/Haarcascades/haarcascade_frontalface_default.xml
