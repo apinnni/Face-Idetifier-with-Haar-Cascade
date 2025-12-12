@@ -41,7 +41,7 @@ File external yang perlu di download:
 
 4.  Jalankan aplikasi utama :
     ```bash
-    python projek.py
+    python3 projek.py
     ```
 
 ## Credits and References
