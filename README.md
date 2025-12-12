@@ -17,7 +17,7 @@ Pastikan Anda telah menginstal dependensi Python berikut:
 
 * opencv-python (cv2)
 * numpy
-* opencv-contrib-python` (diperlukan untuk modul `cv2.face`)
+* opencv-contrib-python
 
 File external yang perlu di download:
 * https://github.com/rchavezj/OpenCV_Projects/blob/master/Haarcascades/haarcascade_frontalface_default.xml
